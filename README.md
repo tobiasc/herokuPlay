@@ -1,2 +1,3 @@
-herokuPlay
-==========
+# herokuPlay
+
+a [Sails](http://sailsjs.org) application
